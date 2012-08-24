@@ -24,5 +24,3 @@ Gem::Specification.new do |s|
   else
   end
 end
-
-Gemify.last_specification.manifest = %q{auto} if defined?(Gemify)
